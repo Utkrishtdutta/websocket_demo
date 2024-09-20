@@ -8,4 +8,7 @@ Use Case:
 - Continious inferencing ML model.
 
 
-Medium link: [https://medium.com/@nmjoshi/getting-started-websocket-with-fastapi-b41d244a2799](https://medium.com/@nmjoshi/getting-started-websocket-with-fastapi-b41d244a2799)
+Run app with cmd : `uvicorn main:app`
+
+
+### Medium link: [https://medium.com/@nmjoshi/getting-started-websocket-with-fastapi-b41d244a2799](https://medium.com/@nmjoshi/getting-started-websocket-with-fastapi-b41d244a2799)
